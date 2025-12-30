@@ -7,5 +7,9 @@ Joueureuses :
 - XXX joue XXX
 - XXX joue XXX
 
-# Atlas de Skye
-![[Pasted image 20251230161702.png]]
+```dataview
+LIST
+FROM "source/content/Category"
+```
+
+
