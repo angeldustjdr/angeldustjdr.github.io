@@ -7,9 +7,13 @@ Joueureuses :
 - XXX joue XXX
 - XXX joue XXX
 
+# Navigation
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST
 FROM "source/content/Category"
 ```
-
+%%
+%% DATAVIEW_PUBLISHER: end %%
 
