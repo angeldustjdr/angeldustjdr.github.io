@@ -22,7 +22,7 @@ SORT file.name
 - [[source/content/Category/Factions.md|Factions]]
 - [[source/content/Category/Lieux.md|Lieux]]
 - [[source/content/Category/Metaphysique.md|Metaphysique]]
-- [[source/content/Category/Personnages.md|Personnages]]
+- [[Category/Personnages.md|Personnages]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
