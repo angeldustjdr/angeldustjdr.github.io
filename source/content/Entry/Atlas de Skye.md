@@ -7,7 +7,7 @@ Le monde de Skye est un gigantesque cyclone, une *Mer-Tempête* de nuage et de [
 - Au dessus flottent les [[Trois anneaux solaires]].
 - En dessous des nuages se trouve la [[Lune glacée]].
 
-Chaque jour, Skye est traversée par des pluies de corps tombant des étoiles (les [[Ascendants]]) et ascendant de la [[Lune glacée]] (les [[Descendants]]).
+Chaque jour, Skye est traversée par des pluies de corps tombant des étoiles et ascendant de la [[Lune glacée]].
 
 Le monde de Skype est composée de nuages et de rochers flottants. Trois continents principaux abritent la civilisation des Humains, et de nombreuses archipels parsèment la *Mer-Tempête*. On navigue sur des [[Bateaux volants]], et les PJ font partie de l'équipage de l'un d'eux.
 
@@ -20,3 +20,4 @@ Parsemés dans la *Mer-Tempête* se trouvent des îles isolées, des archipels, 
 - Le [[Moulin-Phare]]
 - L'[[Ile de la Mort]]
 - Le [[Triangle d'Airain]]
+- [[Esthar]]

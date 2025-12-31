@@ -7,6 +7,6 @@ SORT file.name
 ```
 %%
 
--[[Entry/Armes de Ftéra.md|Armes de Ftéra]]
+- [[Entry/Armes de Ftéra.md|Armes de Ftéra]]
 
 %% DATAVIEW_PUBLISHER: end %%

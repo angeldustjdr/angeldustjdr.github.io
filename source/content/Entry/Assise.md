@@ -16,7 +16,9 @@ Les lieux importants de l'Assise sont :
 Les personnages importants de l'Assise sont :
 - Le Roi [[Thronos Ier]]
 - La Reine [[Kathisma]], la Papesse du [[Culte de la Déesse]]
+	- [[Athénais]], sa confidente
 - [[Vlax le Niais]]
 - [[Agortis le Paysan]]
 - [[Plutos le Fortuné]]
 - [[Dynatos le Fort]]
+- [[Mère Anawhat]]

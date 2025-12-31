@@ -9,9 +9,9 @@ Les lieux importants sont :
 - Les [[Communes-Unies]]
 - La [[Commune du Serpent]]
 - La [[Commune de l'Arbre Bleu]]
-- La [[Commune des Orphelins]]
+- La [[Commune des Orquelins]]
 - La [[Grande Commune]]
 - La [[Commune aux Oiseaux]]
 
 Les personnages importants sont :
-- XXX
+- [[Hekaline]]
