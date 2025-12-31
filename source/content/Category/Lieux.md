@@ -7,7 +7,9 @@ SORT file.name
 ```
 %%
 
-- [[source/content/Entry/Assise.md|Assise]]
-- [[source/content/Entry/Atlas de Skye.md|Atlas de Skye]]
+- [[Entry/Assise.md|Assise]]
+- [[Entry/Atlas de Skye.md|Atlas de Skye]]
+- [[Entry/Pensée.md|Pensée]]
+- [[Entry/Son.md|Son]]
 
 %% DATAVIEW_PUBLISHER: end %%

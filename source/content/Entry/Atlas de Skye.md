@@ -2,7 +2,7 @@
 ![[Atlas_vierge.png]]
 
 Le monde de Skye est un gigantesque cyclone, une *Mer-Tempête* de nuage et de [[Souffle]].
-- En son centre se trouve l'oeil du cyclone, là où gît le corps sans vie la [[Déesse]].
+- En son centre se trouve l'[[Oeil du cyclone]], là où gît le corps sans vie la [[Déesse]].
 - En son bord se trouvent les *Chutes du ciel*, la limite du monde.
 - Au dessus flottent les [[Trois anneaux solaires]].
 - En dessous des nuages se trouve la [[Lune glacée]].
@@ -15,3 +15,8 @@ Les trois continents principaux sont :
 - L'[[Assise]]
 - Le [[Son]]
 - La [[Pensée]]
+
+Parsemés dans la *Mer-Tempête* se trouvent des îles isolées, des archipels, dont certaines abritent des [[Ruines Echoéennes]]. 
+- Le [[Moulin-Phare]]
+- L'[[Ile de la Mort]]
+- Le [[Triangle d'Airain]]
