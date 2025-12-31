@@ -1,4 +1,4 @@
-:!#systeme 
+#systeme 
 
 - Le MJ pose des Problèmes et y associe un score (avec des dés)
 - Puis le MJ dépose au centre de la table, sur la Piste de dés, 1D10, 1D8, 1D6 et 1D4. 
