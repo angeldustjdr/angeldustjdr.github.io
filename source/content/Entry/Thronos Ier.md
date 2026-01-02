@@ -1,5 +1,5 @@
 #perso 
-
+![[Thronos.png]]
 - Roi de l'[[Assise]]
 - Mari de [[Kathisma]], la Papesse du [[Culte de la Déesse]]
 - Fils de [[Pareithon]]
