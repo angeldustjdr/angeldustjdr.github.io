@@ -9,6 +9,7 @@ Joueureuses :
 - XXX joue XXX
 
 Quelques liens pour commencer :
+- [[Contrat Social]]
 - [[Création de personnage]]
 - [[Atlas de Skye]]
 - [[Déesse]]

@@ -7,7 +7,7 @@ SORT file.name
 ```
 %%
 
-- [[Entry/Agortis le Paysan.md|Agortis le Paysan]]
+- [[e Paysan.md|Agortis le Paysan]]
 - [[Entry/Athénais.md|Athénais]]
 - [[Entry/Barbe Brume.md|Barbe Brume]]
 - [[Entry/Damaris.md|Damaris]]
