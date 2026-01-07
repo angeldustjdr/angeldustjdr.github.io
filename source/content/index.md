@@ -4,7 +4,7 @@ title: Trip to Skye - Campagne AngeldustJDR
 Voici le carnet de voyage de la campagne 2026 de Trip To Skye, animée par Simon Li. 
 Joueureuses :
 - Manon joue XXX
-- Thoma joue XXX
+- Thoma joue [[Anestis]]
 - XXX joue XXX
 - XXX joue XXX
 
