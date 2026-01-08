@@ -1,14 +1,16 @@
 #perso 
 
+![[Anestis.png]]
+
 - PJ de Thoma
 - 17 ans
 - Genré au masculin
-- Assiséen, né d'une famille noble et pieuse à Rishadam
+- Assiséen, né d'une famille noble et pieuse à [[Rishadam]]
 	- Ne pouvant pas tuer leur enfant Démon pour ne pas perdre la face
 	- Les parents se sont promis de tuer leur enfant à la majorité
 	- [[Asterios]] : le père
 	- [[Praxis]] : la mère
-- Il a fugué
+- Il a fugué 
 - N'en veut pas aux parents, ni au culte
 - Proche de [[Epodémos]]
 	- [[Epodémos]] est amoureuse de Anestis mais ce n'est pas réciproque

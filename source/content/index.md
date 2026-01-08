@@ -5,7 +5,7 @@ Voici le carnet de voyage de la campagne 2026 de Trip To Skye, animée par Simon
 Joueureuses :
 - Manon joue XXX
 - Thoma joue [[Anestis]]
-- XXX joue XXX
+- Rim joue [[Ereshkigal]]
 - XXX joue XXX
 
 Quelques liens pour commencer :
@@ -27,6 +27,7 @@ SORT file.name
 
 - [[Category/Artefacts.md|Artefacts]]
 - [[Category/Factions.md|Factions]]
+- [[Category/Frise Chronologique.md|Frise Chronologique]]
 - [[Category/Lieux.md|Lieux]]
 - [[Category/Metaphysique.md|Metaphysique]]
 - [[Category/Personnages.md|Personnages]]
