@@ -18,3 +18,4 @@
 - Comme dans beaucoup de jeu à "Drama", les parties peuvent être intenses. La web-cam est conseillée afin de s'assurer que tout le monde va bien lors de la partie.
 - *Carte X* : A tout moment, il est possible de passer sous silence un élément de la fiction, sans avoir à se justifier.
 - *Débrief* : A la fin de chaque partie, nous allons aménager un moment pour débriefer la partie et redescendre doucement.
+- *Ligne et Voile* : VSS

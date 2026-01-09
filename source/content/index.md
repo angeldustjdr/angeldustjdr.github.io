@@ -6,7 +6,7 @@ Joueureuses :
 - Manon joue XXX
 - Thoma joue [[Anestis]]
 - Rim joue [[Ereshkigal]]
-- XXX joue XXX
+- Wizdek joue [[Resmala]]
 
 Quelques liens pour commencer :
 - [[Contrat Social]]
