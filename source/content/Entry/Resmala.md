@@ -11,8 +11,19 @@
 	- Vie de famille compliquée après
 	- Les deux se sont séparés après la naissance : "mauvaise grâce de la [[Déesse]]"
 - Mentor : [[Fulgen]]
+	- Archéologue
+	- A formé Resmala sur les [[Ruines Echoéennes]]
 	- Haine envers lui à cause de sa trahison
 - Crush : [[Tikva]]
 	- Meilleures amies
 	- Des sentiments se sont glissés entre elles
 	- Personnage lumineux
+
+## Objectifs
+- Percer les zones d'ombres sur la civilisation Echoénne
+- Retrouver ces anciens camarades (et son amour [[Tikva]])
+- Trouver un entourage de confiance
+
+## [[Armes de Ftéra]]
+- Rui Imperii (rapière)
+- Celle qui me porte fera chuter le Ciel
