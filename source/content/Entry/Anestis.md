@@ -18,6 +18,7 @@
 - [[Ypirétis]] ne voit pas forcément la relation entre Anestis et [[Epodémos]] d'un bon oeil
 - A une soeur qui s'appelle [[Chrysi]]
 	- Cette enfant est choyée par ses parents qui voient en elle une vraie héritière de la famille
+- Est monté sur le [[Brise-Tempête]] à [[Rishadam]] et s'est proposé de devenir mousse
 
 ## Objectifs
 - Sauver mes proches de l'emprise du [[Culte de la Déesse]]

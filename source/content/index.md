@@ -26,6 +26,7 @@ SORT file.name
 %%
 
 - [[Category/Artefacts.md|Artefacts]]
+- [[Category/Brise-Tempête.md|Brise-Tempête]]
 - [[Category/Factions.md|Factions]]
 - [[Category/Frise Chronologique.md|Frise Chronologique]]
 - [[Category/Lieux.md|Lieux]]

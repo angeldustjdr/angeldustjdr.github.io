@@ -18,6 +18,7 @@
 	- Meilleures amies
 	- Des sentiments se sont glissés entre elles
 	- Personnage lumineux
+- Navigatrice du [[Brise-Tempête]]
 
 ## Objectifs
 - Percer les zones d'ombres sur la civilisation Echoénne

@@ -16,6 +16,7 @@
 	- Action longuement réfléchie
 	- [[Nanna]] n'était pas au courant
 - Demi-sœur de [[Ki]]
+- Est monté sur le [[Brise-Tempête]] entre la [[Pensée]] et l'[[Assise]]
 
 ## Objectifs
 - Découvrir pourquoi [[Nanna]] est encore si attaché à l'[[Assise]]

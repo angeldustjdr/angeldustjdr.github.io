@@ -21,6 +21,7 @@
 	- Chrysanthe a gagné un duel contre [[Najdmadim]]
 	- Essaie de transmettre sa théâtralité à Chrysanthe
 	- Chrysanthe pense qu'il y a quelque chose de plus noble chez les pirates que ceux qui partagent mon sang
+- Capitaine du [[Brise-Tempête]]
 
 ## Objectifs
 - Être connue pour ma bravoure
