@@ -14,13 +14,18 @@
 - Timonier : tient la barre
     - [[Resmala]]
 - Charpentier : entretien les pièces en bois
+	- [[Keziah]]
 - Forgeron d’Ammonites : entretien les planches d’Ammonites
     - [[Goemon]]
 - Maitre Coq : cuisinier
 - Vigie
     - [[Ereshkigal]]
 - Chasse-Orage : fait de la divination, prévoit la météo, si besoin utilise son Souffle pour garantir des vents favorables
+	- [[Salathiel]]
 - Gabier : manœuvre et entretien le mât et les voiles
 - Médecin
+	- [[Sajida]]
 - Mousse
     - [[Anestis]]
+- Canonnier
+	- [[Manjushri]]
