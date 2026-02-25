@@ -2,4 +2,6 @@
 
 ![[Hekaline.png]]
 - Prêtresse de l'orphelinat en [[Pensée]]
-- Amante de [[Fulgen]]
+- Ancienne amante de [[Fulgen]]
+- Amante de [[Helena]]
+- Morte dans la Bataille du Feu
