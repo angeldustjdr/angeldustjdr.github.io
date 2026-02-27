@@ -18,4 +18,9 @@
 - 37 AJ - 48ème jour de la Saison Chaude : Etablissement de la Convention de Mines
 
 ## Tome II
-- 37 AJ - 86ème jour de la Saison Chaude : 
+- 37 AJ - 86ème jour de la Saison Chaude : [[Barbe Brume]] reçoit deux énigmes de la part d'un ami défunt
+	- Les PJ partent pour [[Esthar]]
+	- [[Najdmadim]] et son équipage partent résoudre la deuxième énigme
+- 37 AJ - 10ème jour de la Saison Froide :
+	- Arrivée à [[Esthar]], rencontre avec [[Gia]]
+	- Découverte du Cimeterre Dansant et de l'Ammonite scindée
