@@ -24,3 +24,14 @@
 - 37 AJ - 10ème jour de la Saison Froide :
 	- Arrivée à [[Esthar]], rencontre avec [[Gia]]
 	- Découverte du Cimeterre Dansant et de l'Ammonite scindée
+- 37 AJ - 11ème jour de la Saison Froide :
+	- Accouchement de [[Gia]] et éruption du volcan
+		- Nait une fille que [[Chrysanthe]] garde
+		- Nommée XXX
+			- Clé ?
+	- Seuls les enfants ont pu être sauvés
+- 37 AJ - 13ème jour de la Saison Froide :
+	- Escale à la Commune aux Galets
+		- [[Anestis]] sculpte une statue à l'effigie d'[[Hekaline]] et [[Resmala]] y grave le symbole "Famille" en Echoéen
+		- [[Ereshkigal]] sculpte une aile
+		- 6 enfants restent, les autres retrouvent un foyer
