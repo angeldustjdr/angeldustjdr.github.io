@@ -20,7 +20,7 @@ Quelques liens pour commencer :
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST
-FROM "source/content/Category"
+FROM "Category"
 SORT file.name
 ```
 %%

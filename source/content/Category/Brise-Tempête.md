@@ -9,6 +9,7 @@
 - Capitaine
     - [[Chrysanthe]]
 - Bosco (ou maitre d’équipage) : commande les manœuvres sur le pont
+	- [[Elas]]
 - Navigatrice : établit la position du bateau et met à jour la carte
     - [[Resmala]]
 - Timonier : tient la barre
@@ -18,14 +19,25 @@
 - Forgeron d’Ammonites : entretien les planches d’Ammonites
     - [[Goemon]]
 - Maitre Coq : cuisinier
+	- [[Anour]]
 - Vigie
     - [[Ereshkigal]]
 - Chasse-Orage : fait de la divination, prévoit la météo, si besoin utilise son Souffle pour garantir des vents favorables
 	- [[Salathiel]]
 - Gabier : manœuvre et entretien le mât et les voiles
+	- [[Polemos]]
+    - [[Mikhaïl]]
+    - [[Milenia]]
+    - [[Sheikh]]
 - Médecin
 	- [[Sajida]]
 - Mousse
     - [[Anestis]]
 - Canonnier
 	- [[Manjushri]]
+- Mousse
+	- [[Anestis]]
+	- [[Nino]]
+    - [[Albireo]]
+    - [[Yayah]]
+    - [[Isma]]
