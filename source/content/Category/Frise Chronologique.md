@@ -27,7 +27,7 @@
 - 37 AJ - 11ème jour de la Saison Froide :
 	- Accouchement de [[Gia]] et éruption du volcan
 		- Nait une fille que [[Chrysanthe]] garde
-		- Nommée XXX
+		- Nommée [[Araya]]
 			- Clé ?
 	- Seuls les enfants ont pu être sauvés
 - 37 AJ - 13ème jour de la Saison Froide :
@@ -35,3 +35,14 @@
 		- [[Anestis]] sculpte une statue à l'effigie d'[[Hekaline]] et [[Resmala]] y grave le symbole "Famille" en Echoéen
 		- [[Ereshkigal]] sculpte une aile
 		- 6 enfants restent, les autres retrouvent un foyer
+
+## Tome III
+- 37 AJ - 72ème jour de la Saison Froide :
+	- Abordage du Eidolon
+	- Rencontre avec [[Ugyès]]
+- 38 AJ - 2ème jour de la Saison Douce : 
+	- Retour au [[Triangle d'Airain]]
+	- 4 Mousses embauchés
+- 38 AJ - 25ème jour de la Saison Douce :
+	- Retour à [[Zénée]]
+	- Début des problèmes
