@@ -46,3 +46,11 @@
 - 38 AJ - 25ème jour de la Saison Douce :
 	- Retour à [[Zénée]]
 	- Début des problèmes
+	- Confrontation avec [[Demophon]]
+	- [[Chrysanthe]] est gravement blessée --> fuite de [[Zénée]]
+	- [[Anestis]] tue [[Epodémos]] par erreur
+	- [[Mère Anawhat]] fait son apparition
+- 38 AJ - 31ème jour de la Saison Douce
+	- Arrivée à Selidor et rencontre avec son bourgmestre
+	- L'équipage marchande la guérison de [[Chrysanthe]]
+	- Le bourgmestre confie un coffre à remettre au roi [[Thronos Ier]] de l'Assise
