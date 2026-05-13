@@ -54,3 +54,9 @@
 	- Arrivée à Selidor et rencontre avec son bourgmestre
 	- L'équipage marchande la guérison de [[Chrysanthe]]
 	- Le bourgmestre confie un coffre à remettre au roi [[Thronos Ier]] de l'Assise
+	- [[Chrysanthe]] se réveille
+	- Départ sans un mousse
+	- L'équipage croise un navire diplomatique de [[Zénée]], un message est délivré à [[Barbe Brume]]
+- 38 AJ - 50ème jour de la Saison Douce
+	- Accueille chaleureux
+	- [[Barbe Brume]] compte se rendre à [[Zénée]] suite au message qu'il a reçu
