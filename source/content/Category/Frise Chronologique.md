@@ -60,3 +60,8 @@
 - 38 AJ - 50ème jour de la Saison Douce
 	- Accueille chaleureux
 	- [[Barbe Brume]] compte se rendre à [[Zénée]] suite au message qu'il a reçu
+	- Conseil et confrontation entre [[Najdmadim]] et [[Chrysanthe]]
+	- Finalement [[Barbe Brume]] part seul
+	- L'équipage part à sa recherche
+- 38 AJ - 73ème jour de la Saison Douce
+	- Arrivée à [[Zénée]], ambiance occupation
