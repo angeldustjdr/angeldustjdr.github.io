@@ -65,3 +65,12 @@
 	- L'équipage part à sa recherche
 - 38 AJ - 73ème jour de la Saison Douce
 	- Arrivée à [[Zénée]], ambiance occupation
+	- L'équipage assiste à la Conjuration
+	- Embuscade de l'Assise
+	- Confrontation avec Mère Anawhat
+	- Les PJ sont faits prisonnier
+- 38 AJ - 85ème jour de la Saison Douce
+	- Mort de Barbe Brume
+	- Sauvetage
+
+# Tome IV
