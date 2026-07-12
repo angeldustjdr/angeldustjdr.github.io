@@ -74,3 +74,10 @@
 	- Sauvetage
 
 # Tome IV
+- 38 AJ - 3ème jour de la Saison Chaude
+	- Sur Altera / livraison des 3 charges
+- 38 AJ - 8ème jour de la Saison Chaude
+	- Attaque et prise de Rishadam
+	- Largage d'une charge de Souffle Noir
+	- Arrivée à Palompti
+	- 
