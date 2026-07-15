@@ -79,5 +79,16 @@
 - 38 AJ - 8ème jour de la Saison Chaude
 	- Attaque et prise de Rishadam
 	- Largage d'une charge de Souffle Noir
+- 38 AJ - 10ème jour de la Saison Chaude
 	- Arrivée à Palompti
-	- 
+	- Discussion avec [[Miden Miayn]]
+- 38 AJ - 11ème jour de la Saison Chaude
+	- Siège de [[Ypsilos]]
+	- Victoire sur l'[[Assise]]
+
+
+**The end**
+
+# Epilogue
+- Le corps d'[[Anestis]] est déposé sur la plus haute corniche de l'[[Assise]]
+- 
