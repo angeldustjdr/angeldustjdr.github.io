@@ -73,7 +73,7 @@
 	- Mort de Barbe Brume
 	- Sauvetage
 
-# Tome IV
+## Tome IV
 - 38 AJ - 3ème jour de la Saison Chaude
 	- Sur Altera / livraison des 3 charges
 - 38 AJ - 8ème jour de la Saison Chaude
@@ -85,10 +85,11 @@
 - 38 AJ - 11ème jour de la Saison Chaude
 	- Siège de [[Ypsilos]]
 	- Victoire sur l'[[Assise]]
+	- Mort d'[[Anestis]]
 
 
 **The end**
 
-# Epilogue
+## Epilogue
 - Le corps d'[[Anestis]] est déposé sur la plus haute corniche de l'[[Assise]]
 - 
